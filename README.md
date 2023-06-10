@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niteshtyagi" alt="niteshtyagi" /></a> </p>
 
-- 🔭 I’m currently working in [Target Integration](https://targetintegration.com/)
-
 - 🌱 I’m currently learning ****Algorithm Making and effectively Problem solving****
 
 - 👯 I’m looking to collaborate on **Open-source projects.**
